@@ -1,0 +1,15 @@
+Fitur:
+- Register
+- Login
+- Multiplayer Typing
+- Leaderboard
+
+
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Nibiru-Developers/nibiru-typing.git
+git push -u origin main
