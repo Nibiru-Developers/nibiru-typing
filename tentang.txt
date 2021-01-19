@@ -1,6 +1,8 @@
 Fitur:
 - Register
 - Login
+- Common typing
+- Create your own typing
 - Multiplayer Typing
 - Leaderboard
 
